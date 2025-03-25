@@ -1,5 +1,4 @@
-# Hi there! 👋 I'm Hadi Faraj
-
+# Hi there! 👋 I'm Hadi 
 I'm an AI and Data Science student passionate about solving problems using data. My focus is on **data analysis**, **visualization**, and **predictive modeling**. I'm constantly learning new skills and techniques to apply to real-world challenges.
 
 ## 🔧 Skills & Tools
