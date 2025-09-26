@@ -1,15 +1,14 @@
 # Hi there! 👋 I'm Hadi 
-I'm an AI and Data Science student passionate about solving problems using data. My focus is on **data analysis**, **visualization**, and **predictive modeling**. I'm constantly learning new skills and techniques to apply to real-world challenges.
+I'm an AI and Data Science student passionate about solving problems using data. My focus is on data analysis, machine learning, and backend engineering. I'm constantly learning new skills and techniques to apply to real-world challenges.
 
-## 🔧 Skills & Tools
-- **Programming Languages**: Python, SQL
-- **Data Manipulation & Analysis**: Pandas, NumPy, PowerBI
-- **Machine Learning**: Model Evaluation
-- **Visualization**: Matplotlib, Seaborn
-- **Tools**: Jupyter Notebook, Git, VSCode
+## 🎯 Experience & Achievements  
+- Led a data visualization project at university, presenting insights to peers and faculty.  
+- Collaborated with a real-world company to deliver a route-finding optimization project.  
+- Developed a clothing recommendation model + API during an internship, taking ownership of the entire backend from start to finish.  
+
 
 ## 📚 Currently Learning
-I'm currently working on expanding my knowledge in **machine learning** and **AI algorithms** to better understand how to leverage data in real-world scenarios.
+I'm currently working on expanding my knowledge in machine learning and AI algorithms to better understand how to leverage data in real-world scenarios.
 
 ## 💬 Let's Connect
 - **LinkedIn**: https://www.linkedin.com/in/hadifaraj
